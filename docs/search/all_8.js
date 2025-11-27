@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['iavg_5f_0',['iavg_',['../classMod1Mode.html#a3673a808117ccd9fbda4610bcea3db2c',1,'Mod1Mode::Iavg_'],['../classMod2Mode.html#ac49ade6646e730321903056827031d78',1,'Mod2Mode::Iavg_']]],
+  ['iavg_5fs_1',['IAvg_s',['../Modes_8h.html#adf369259dddd95255442495a6f6fa96f',1,'Modes.h']]],
+  ['iavg_5ft_2',['IAvg_t',['../Modes_8h.html#ab04955aa9a0cde03c3f19b89d606528b',1,'Modes.h']]],
+  ['iavgs_5f_3',['iavgs_',['../classMod1Mode.html#a8b6ee9353fc4804fa165924396446da3',1,'Mod1Mode::IavgS_'],['../classMod2Mode.html#afdd9b4d7e00c12dabb6b85fbf7f5a0c2',1,'Mod2Mode::IavgS_']]],
+  ['icursor_5f_4',['icursor_',['../classParametersMode.html#ac19d375dc41029cb7b3810bfe064dfca',1,'ParametersMode']]],
+  ['idigits_5f_5',['idigits_',['../classParametersMode.html#a04b8d36f1b6e58ab381fb3e2816b1c4c',1,'ParametersMode']]],
+  ['idle_6',['Idle',['../classStepperDriver.html#a73f31a24104215a8d9991208c15d17c7ae599161956d626eda4cb0a5ffb85271c',1,'StepperDriver']]],
+  ['idx_5f_7',['idx_',['../classMovingAverage.html#aaaa6860aaf2075d4eb553fbb31188d3b',1,'MovingAverage']]],
+  ['ignoreselectrelease_5f_8',['ignoreSelectRelease_',['../classParametersMode.html#a91cd6784386d77e4c54048b0367043d1',1,'ParametersMode']]],
+  ['imode_9',['IMode',['../structIMode.html',1,'']]],
+  ['imode_2eh_10',['IMode.h',['../IMode_8h.html',1,'']]],
+  ['intfromdigits_11',['intFromDigits',['../classParametersMode.html#abca58efc7e6c52ab8946daafca436e0d',1,'ParametersMode']]],
+  ['inv_5f_12',['inv_',['../classLcd1602.html#aaafda4aab45ad84f93c72ed4d8f63fb5',1,'Lcd1602']]],
+  ['irms_5f_13',['Irms_',['../classCurrentSensor.html#aeb090717df3662b092fe39d969e597c5',1,'CurrentSensor']]],
+  ['isbusy_14',['isBusy',['../classStepperDriver.html#a4a66821f431c4db6d4f030c6b7003bd8',1,'StepperDriver']]],
+  ['isenabled_15',['isEnabled',['../classCurrentSensor.html#acfd4c88af45aa6f944e8f7d49b2ab04c',1,'CurrentSensor']]]
+];

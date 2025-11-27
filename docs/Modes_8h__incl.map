@@ -1,0 +1,24 @@
+<map id="Modes.h" name="Modes.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="347,5,424,31"/>
+<area shape="rect" id="Node000002" href="$IMode_8h.html" title=" " alt="" coords="5,79,80,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,29,94,81,93,76,346,24"/>
+<area shape="rect" id="Node000004" href="$Lcd1602_8h.html" title=" " alt="" coords="707,79,795,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="425,24,694,76,693,81,424,29"/>
+<area shape="rect" id="Node000006" href="$KeypadShield_8h.html" title=" " alt="" coords="104,79,227,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="351,33,214,77,213,72,349,28"/>
+<area shape="rect" id="Node000007" href="$StepperDriver_8h.html" title=" " alt="" coords="251,79,373,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="375,33,336,71,332,67,371,29"/>
+<area shape="rect" id="Node000008" href="$CurrentSensor_8h.html" title=" " alt="" coords="397,79,523,104"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="399,29,440,67,436,71,395,33"/>
+<area shape="rect" id="Node000009" href="$MovingAverage_8h.html" title=" " alt="" coords="547,79,682,104"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="423,28,565,72,563,77,421,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="345,152,429,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,99,93,101,332,150,331,155,91,107,80,104"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="707,104,695,107,443,155,442,150,694,101,706,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="691,152,810,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="753,104,753,138,748,138,748,104"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="202,101,339,145,337,150,200,107"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="326,102,366,141,363,144,322,106"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="450,106,410,144,407,140,446,102"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="579,107,438,150,436,145,577,101"/>
+</map>

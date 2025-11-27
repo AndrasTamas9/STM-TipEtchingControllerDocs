@@ -1,0 +1,5 @@
+<map id="ModeController::start_" name="ModeController::start_">
+<area shape="rect" id="Node000001" title="Start the mode at the given index." alt="" coords="5,5,172,31"/>
+<area shape="rect" id="Node000002" href="$structIMode.html#abf4c7c5e1758fc13058dac1dd0675982" title="Initialize the mode." alt="" coords="220,5,327,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,15,206,15,206,21,172,21"/>
+</map>

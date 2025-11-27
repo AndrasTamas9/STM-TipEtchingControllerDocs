@@ -1,0 +1,5 @@
+<map id="ParametersMode::startEditInt" name="ParametersMode::startEditInt">
+<area shape="rect" id="Node000001" title="Initialize the integer editor with an initial value." alt="" coords="221,5,433,31"/>
+<area shape="rect" id="Node000002" href="$classParametersMode.html#ae6288ee6a57c034054af8903c678a341" title="Execute one non&#45;blocking step of the parameter editing logic." alt="" coords="5,5,173,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,21,174,21,174,15,208,15"/>
+</map>

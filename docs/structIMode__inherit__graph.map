@@ -1,0 +1,13 @@
+<map id="IMode" name="IMode">
+<area shape="rect" id="Node000001" title="Interface for non&#45;blocking machine modes." alt="" coords="245,5,308,31"/>
+<area shape="rect" id="Node000002" href="$classHomeMode.html" title="Homing mode for the Z axis with baseline current measurement." alt="" coords="5,79,103,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,36,91,81,89,76,232,31"/>
+<area shape="rect" id="Node000003" href="$classJogMode.html" title="Manual jogging mode for up/down movement with keypad (JOG)." alt="" coords="127,79,205,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,40,186,81,183,76,246,36"/>
+<area shape="rect" id="Node000004" href="$classMod1Mode.html" title="Mode for surface detection and etching using a 30 V supply (MOD1)." alt="" coords="229,79,324,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,44,279,79,274,79,274,44"/>
+<area shape="rect" id="Node000005" href="$classMod2Mode.html" title="Mode for surface detection, etching validation, and pulsed 9 V processing (MOD2)." alt="" coords="348,79,443,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="309,35,377,76,375,81,306,40"/>
+<area shape="rect" id="Node000006" href="$classParametersMode.html" title="Interactive on&#45;device editor for MOD1/MOD2 parameters." alt="" coords="467,79,599,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="322,29,492,76,491,81,321,34"/>
+</map>

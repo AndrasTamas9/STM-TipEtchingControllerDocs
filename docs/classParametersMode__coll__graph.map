@@ -1,0 +1,9 @@
+<map id="ParametersMode" name="ParametersMode">
+<area shape="rect" id="Node000001" title="Interactive on&#45;device editor for MOD1/MOD2 parameters." alt="" coords="64,93,196,119"/>
+<area shape="rect" id="Node000002" href="$structIMode.html" title="Interface for non&#45;blocking machine modes." alt="" coords="5,5,68,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,38,119,91,115,95,58,42"/>
+<area shape="rect" id="Node000003" href="$classLcd1602.html" title="Wrapper class for a 16x2 HD44780&#45;compatible LCD with PWM backlight control." alt="" coords="92,5,168,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,45,133,93,127,93,127,45"/>
+<area shape="rect" id="Node000004" href="$classKeypadShield.html" title="Non&#45;blocking keypad handler for analog&#45;resistor ladder shields." alt="" coords="192,5,303,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,41,148,95,144,91,219,37"/>
+</map>

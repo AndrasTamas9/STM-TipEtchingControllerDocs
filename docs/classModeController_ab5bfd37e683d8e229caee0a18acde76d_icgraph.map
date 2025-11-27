@@ -1,0 +1,10 @@
+<map id="ModeController::drawMenu_" name="ModeController::drawMenu_">
+<area shape="rect" id="Node000001" title="Draw the current menu screen on the LCD." alt="" coords="427,56,632,81"/>
+<area shape="rect" id="Node000002" href="$classModeController.html#ae38e2cb9c2e547324b800ebdbd1127e1" title="Initialize the controller and start operation." alt="" coords="212,5,379,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,56,354,33,355,28,457,50"/>
+<area shape="rect" id="Node000003" href="$classModeController.html#a165f893bcea976bafa17090c99b79098" title="Main update function to be called from the Arduino loop()." alt="" coords="5,81,164,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,78,164,92,164,87,413,73"/>
+<area shape="rect" id="Node000004" href="$classModeController.html#a4d6b09324e3b74309353454935d129af" title="Stop the currently running mode and return to the menu state." alt="" coords="213,107,378,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="457,87,355,109,354,104,456,82"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="199,110,164,106,165,101,199,105"/>
+</map>

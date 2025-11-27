@@ -1,0 +1,28 @@
+<map id="ModeController::loop" name="ModeController::loop">
+<area shape="rect" id="Node000001" title="Main update function to be called from the Arduino loop()." alt="" coords="5,129,164,155"/>
+<area shape="rect" id="Node000002" href="$classModeController.html#ab5bfd37e683d8e229caee0a18acde76d" title="Draw the current menu screen on the LCD." alt="" coords="427,180,632,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,148,413,177,413,182,164,154"/>
+<area shape="rect" id="Node000006" href="$structIMode.html#a531317dbb9f073f46bd6b7330ffc58e7" title="Get the human&#45;readable name of the mode." alt="" coords="242,55,349,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="116,127,211,90,237,82,238,87,213,95,118,132"/>
+<area shape="rect" id="Node000007" href="$classKeypadShield.html#a35b5757cf10ad1d38bbf9061c2d2b11b" title="Poll the keypad and return a single key&#45;press edge event." alt="" coords="224,5,367,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="97,127,144,84,176,60,211,40,226,33,228,38,213,44,179,65,148,89,101,131"/>
+<area shape="rect" id="Node000009" href="$classModeController.html#a9f9e8325c8f0f2d1f825e5bcaa444140" title="Start the mode at the given index." alt="" coords="212,104,379,129"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="164,130,198,126,199,131,164,135"/>
+<area shape="rect" id="Node000011" href="$structIMode.html#a9fc61504224e0961d659341cde1140da" title="Perform one non&#45;blocking operational step." alt="" coords="246,205,345,231"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="122,152,247,198,245,203,120,157"/>
+<area shape="rect" id="Node000012" href="$classModeController.html#a4d6b09324e3b74309353454935d129af" title="Stop the currently running mode and return to the menu state." alt="" coords="213,255,378,280"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="100,153,147,196,179,220,213,241,228,248,226,252,211,246,176,224,144,200,97,157"/>
+<area shape="rect" id="Node000003" href="$classLcd1602.html#a3f963d042026926a4a7957d804fff527" title="Clear the LCD display." alt="" coords="695,131,811,156"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,177,681,156,683,162,588,183"/>
+<area shape="rect" id="Node000004" href="$classLcd1602.html#a2922193bbb32f7cad2c48c5ad0f21f0c" title="Print a RAM&#45;resident C&#45;string." alt="" coords="696,180,811,205"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="632,190,682,190,682,195,632,195"/>
+<area shape="rect" id="Node000005" href="$classLcd1602.html#a0516b78aa7f4531924a132d2b256f534" title="Position the cursor." alt="" coords="680,229,827,255"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="588,203,682,224,681,229,587,208"/>
+<area shape="rect" id="Node000008" href="$classKeypadShield.html#aa6ccf3a8934dadd07bfafddb75cc015d" title="Classify a raw ADC reading into a Key value." alt="" coords="442,5,617,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="367,15,428,15,428,21,367,21"/>
+<area shape="rect" id="Node000010" href="$structIMode.html#abf4c7c5e1758fc13058dac1dd0675982" title="Initialize the mode." alt="" coords="476,104,583,129"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="379,114,462,114,462,119,379,119"/>
+<area shape="poly" id="edge12_Node000012_Node000002" title=" " alt="" coords="341,252,378,241,478,207,480,212,379,246,342,257"/>
+<area shape="rect" id="Node000013" href="$structIMode.html#acc782a6205322e642a56aa122c8e0512" title="Cleanup performed when the mode is exited." alt="" coords="482,255,577,280"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="378,265,468,265,468,270,378,270"/>
+</map>

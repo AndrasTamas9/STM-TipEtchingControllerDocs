@@ -1,0 +1,5 @@
+<map id="CurrentSensor::lastIrms" name="CurrentSensor::lastIrms">
+<area shape="rect" id="Node000001" title="Get the last computed RMS current." alt="" coords="187,5,361,31"/>
+<area shape="rect" id="Node000002" href="$classHomeMode.html#a6f709c817816acbc6a1e2e8f2cba30c1" title="Execute one non&#45;blocking step of the HOME mode state machine." alt="" coords="5,5,139,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,21,139,21,139,15,173,15"/>
+</map>

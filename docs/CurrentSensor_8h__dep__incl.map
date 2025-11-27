@@ -1,0 +1,9 @@
+<map id="CurrentSensor.h" name="CurrentSensor.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,5,205,31"/>
+<area shape="rect" id="Node000002" href="$CurrentSenros_8cpp.html" title=" " alt="" coords="5,79,147,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,43,89,80,85,77,120,39"/>
+<area shape="rect" id="Node000003" href="$Modes_8h.html" title=" " alt="" coords="171,79,248,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,39,200,77,197,80,161,43"/>
+<area shape="rect" id="Node000004" href="$Modes_8cpp.html" title=" " alt="" coords="163,152,255,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,118,212,152,207,152,207,118"/>
+</map>

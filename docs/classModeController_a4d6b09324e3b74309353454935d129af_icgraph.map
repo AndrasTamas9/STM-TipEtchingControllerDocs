@@ -1,0 +1,5 @@
+<map id="ModeController::stop_" name="ModeController::stop_">
+<area shape="rect" id="Node000001" title="Stop the currently running mode and return to the menu state." alt="" coords="212,5,377,31"/>
+<area shape="rect" id="Node000002" href="$classModeController.html#a165f893bcea976bafa17090c99b79098" title="Main update function to be called from the Arduino loop()." alt="" coords="5,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,164,21,164,15,199,15"/>
+</map>

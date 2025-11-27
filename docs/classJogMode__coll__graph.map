@@ -1,0 +1,11 @@
+<map id="JogMode" name="JogMode">
+<area shape="rect" id="Node000001" title="Manual jogging mode for up/down movement with keypad (JOG)." alt="" coords="149,93,228,119"/>
+<area shape="rect" id="Node000002" href="$structIMode.html" title="Interface for non&#45;blocking machine modes." alt="" coords="5,5,68,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,35,169,91,167,95,68,40"/>
+<area shape="rect" id="Node000003" href="$classLcd1602.html" title="Wrapper class for a 16x2 HD44780&#45;compatible LCD with PWM backlight control." alt="" coords="92,5,168,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,41,183,91,178,94,143,44"/>
+<area shape="rect" id="Node000004" href="$classKeypadShield.html" title="Non&#45;blocking keypad handler for analog&#45;resistor ladder shields." alt="" coords="192,5,303,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,44,199,94,195,91,229,41"/>
+<area shape="rect" id="Node000005" href="$classStepperDriver.html" title="Non&#45;blocking stepper motor driver with position and velocity control." alt="" coords="327,5,439,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="345,39,216,96,214,91,343,34"/>
+</map>

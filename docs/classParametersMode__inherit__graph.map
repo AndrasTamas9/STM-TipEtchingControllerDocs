@@ -1,0 +1,5 @@
+<map id="ParametersMode" name="ParametersMode">
+<area shape="rect" id="Node000001" title="Interactive on&#45;device editor for MOD1/MOD2 parameters." alt="" coords="5,79,137,104"/>
+<area shape="rect" id="Node000002" href="$structIMode.html" title="Interface for non&#45;blocking machine modes." alt="" coords="40,5,103,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,44,74,79,69,79,69,44"/>
+</map>

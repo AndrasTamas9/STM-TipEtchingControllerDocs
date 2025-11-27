@@ -1,0 +1,12 @@
+<map id="ParametersMode::begin" name="ParametersMode::begin">
+<area shape="rect" id="Node000001" title="Initialize the parameter editing mode." alt="" coords="5,31,181,56"/>
+<area shape="rect" id="Node000002" href="$classLcd1602.html#a3f963d042026926a4a7957d804fff527" title="Clear the LCD display." alt="" coords="541,5,657,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,36,527,19,527,24,182,42"/>
+<area shape="rect" id="Node000003" href="$classParametersMode.html#a489515dfc1baf1550029f7913928d514" title="Draw the MODE selection screen (MOD1 vs MOD2) on the LCD." alt="" coords="229,56,477,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,49,216,53,215,58,181,55"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="415,53,527,30,528,35,416,58"/>
+<area shape="rect" id="Node000004" href="$classLcd1602.html#a2922193bbb32f7cad2c48c5ad0f21f0c" title="Print a RAM&#45;resident C&#45;string." alt="" coords="541,55,656,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="477,65,528,65,528,70,477,71"/>
+<area shape="rect" id="Node000005" href="$classLcd1602.html#a0516b78aa7f4531924a132d2b256f534" title="Position the cursor." alt="" coords="525,104,672,129"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="420,79,520,99,519,104,419,84"/>
+</map>

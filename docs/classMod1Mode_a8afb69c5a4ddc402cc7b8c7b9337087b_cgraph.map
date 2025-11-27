@@ -1,0 +1,9 @@
+<map id="Mod1Mode::end" name="Mod1Mode::end">
+<area shape="rect" id="Node000001" title="Cleanup performed when leaving MOD1 mode." alt="" coords="5,55,132,80"/>
+<area shape="rect" id="Node000002" href="$classStepperDriver.html#a08ddf3dd4e038a8818de8a7200ddb4ec" title="Enable or disable the stepper driver." alt="" coords="201,5,365,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,52,213,31,214,36,125,57"/>
+<area shape="rect" id="Node000003" href="$classCurrentSensor.html#a908e354d16c44c67d2be1b501e18bfc7" title="Enable or disable measurement updates." alt="" coords="185,55,380,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,65,172,65,172,70,132,70"/>
+<area shape="rect" id="Node000004" href="$classStepperDriver.html#a8fa4f67459e8366e83a2827fc4e8cf3a" title="Set continuous motion speed in mm/s." alt="" coords="180,105,385,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="118,77,195,99,194,104,116,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ParametersMode::drawSelectMode" name="ParametersMode::drawSelectMode">
+<area shape="rect" id="Node000001" title="Draw the MODE selection screen (MOD1 vs MOD2) on the LCD." alt="" coords="229,31,477,56"/>
+<area shape="rect" id="Node000002" href="$classParametersMode.html#ac9da448163fdb4e025716d33ede8894a" title="Initialize the parameter editing mode." alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,33,181,29,182,24,216,27"/>
+<area shape="rect" id="Node000003" href="$classParametersMode.html#ae6288ee6a57c034054af8903c678a341" title="Execute one non&#45;blocking step of the parameter editing logic." alt="" coords="9,55,177,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,59,178,62,177,57,215,53"/>
+</map>

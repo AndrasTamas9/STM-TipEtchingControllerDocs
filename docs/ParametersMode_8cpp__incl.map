@@ -1,0 +1,20 @@
+<map id="ParametersMode.cpp" name="ParametersMode.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the ParametersMode class for on&#45;device parameter editing." alt="" coords="137,5,295,31"/>
+<area shape="rect" id="Node000002" href="$ParametersMode_8h.html" title=" " alt="" coords="144,79,288,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,31,219,65,213,65,213,31"/>
+<area shape="rect" id="Node000003" href="$IMode_8h.html" title=" " alt="" coords="5,152,80,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,106,85,149,83,144,187,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="125,225,209,251"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="194,106,167,126,145,153,141,168,143,183,154,212,149,214,137,184,136,167,140,151,163,122,191,102"/>
+<area shape="rect" id="Node000005" href="$Lcd1602_8h.html" title=" " alt="" coords="301,152,389,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="238,102,313,143,311,147,236,106"/>
+<area shape="rect" id="Node000007" href="$KeypadShield_8h.html" title=" " alt="" coords="155,152,277,177"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="219,104,219,138,213,138,213,104"/>
+<area shape="rect" id="Node000008" href="$Parameters_8h.html" title=" " alt="" coords="414,152,522,177"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="257,101,415,146,413,151,256,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="64,175,136,216,133,221,61,180"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="318,180,209,223,207,218,316,175"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="286,225,405,251"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="348,178,348,212,343,212,343,178"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="210,179,185,216,180,213,206,176"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Lcd1602::begin" name="Lcd1602::begin">
+<area shape="rect" id="Node000001" title="Initialize the LCD hardware and backlight subsystem." alt="" coords="5,5,125,31"/>
+<area shape="rect" id="Node000002" href="$classLcd1602.html#a45f2c67797f41544d2d2e1cdab799fb1" title="Set the backlight brightness using PWM." alt="" coords="173,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,15,160,15,160,21,126,21"/>
+</map>

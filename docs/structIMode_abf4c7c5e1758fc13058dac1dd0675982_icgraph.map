@@ -1,0 +1,9 @@
+<map id="IMode::begin" name="IMode::begin">
+<area shape="rect" id="Node000001" title="Initialize the mode." alt="" coords="435,31,541,56"/>
+<area shape="rect" id="Node000002" href="$classModeController.html#a9f9e8325c8f0f2d1f825e5bcaa444140" title="Start the mode at the given index." alt="" coords="220,31,387,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,46,387,46,387,41,421,41"/>
+<area shape="rect" id="Node000003" href="$classModeController.html#ae38e2cb9c2e547324b800ebdbd1127e1" title="Initialize the controller and start operation." alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,34,172,30,173,25,206,29"/>
+<area shape="rect" id="Node000004" href="$classModeController.html#a165f893bcea976bafa17090c99b79098" title="Main update function to be called from the Arduino loop()." alt="" coords="9,55,168,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="206,57,168,61,168,56,206,52"/>
+</map>

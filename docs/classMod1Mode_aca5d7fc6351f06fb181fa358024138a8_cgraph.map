@@ -1,0 +1,13 @@
+<map id="Mod1Mode::begin" name="Mod1Mode::begin">
+<area shape="rect" id="Node000001" title="Initialize MOD1 mode." alt="" coords="5,104,144,129"/>
+<area shape="rect" id="Node000002" href="$classStepperDriver.html#a08ddf3dd4e038a8818de8a7200ddb4ec" title="Enable or disable the stepper driver." alt="" coords="213,5,377,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,102,134,71,191,40,211,32,213,37,193,44,137,75,93,106"/>
+<area shape="rect" id="Node000003" href="$classMovingAverage.html#a84bdaf0937897d8baacad7cd1a927eac" title="Reset the filter contents and accumulator." alt="" coords="213,55,377,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,101,223,80,224,86,133,107"/>
+<area shape="rect" id="Node000004" href="$classCurrentSensor.html#a908e354d16c44c67d2be1b501e18bfc7" title="Enable or disable measurement updates." alt="" coords="197,104,392,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,114,184,114,184,119,144,119"/>
+<area shape="rect" id="Node000005" href="$classStepperDriver.html#a8fa4f67459e8366e83a2827fc4e8cf3a" title="Set continuous motion speed in mm/s." alt="" coords="192,154,397,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,127,205,148,204,153,124,132"/>
+<area shape="rect" id="Node000006" href="$classLcd1602.html#a7004efb68a9891924331923c69706d52" title="Display two lines of flash&#45;resident text as a title." alt="" coords="235,219,354,244"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="90,127,134,165,162,186,193,204,223,215,221,220,191,208,160,190,131,169,87,131"/>
+</map>

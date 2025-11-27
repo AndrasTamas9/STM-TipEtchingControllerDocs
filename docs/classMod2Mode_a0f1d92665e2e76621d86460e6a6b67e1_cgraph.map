@@ -1,0 +1,32 @@
+<map id="Mod2Mode::step" name="Mod2Mode::step">
+<area shape="rect" id="Node000001" title="Execute one step of the MOD2 state machine." alt="" coords="5,280,136,305"/>
+<area shape="rect" id="Node000002" href="$classCurrentSensor.html#a45514ec38e38d1ae4194ee6e07c90917" title="Get the baseline&#45;corrected RMS current." alt="" coords="196,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,279,80,233,99,168,113,133,132,99,155,67,182,40,188,36,191,40,186,44,159,71,136,102,118,135,104,170,85,235,76,280"/>
+<area shape="rect" id="Node000003" href="$classStepperDriver.html#a4a66821f431c4db6d4f030c6b7003bd8" title="Check whether the driver is busy with a position move." alt="" coords="221,55,383,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="73,279,84,241,105,189,138,135,158,110,182,89,206,76,208,81,186,94,162,114,142,138,110,192,89,243,78,281"/>
+<area shape="rect" id="Node000004" href="$classStepperDriver.html#a388099ce07ad1e470799bab91943d2e0" title="Start a non&#45;blocking relative move (mm)." alt="" coords="184,104,420,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="76,278,115,215,146,178,183,146,212,131,214,136,185,151,149,182,119,218,81,281"/>
+<area shape="rect" id="Node000006" href="$classStepperDriver.html#a4d1715971817716be1a64e8b5c6c2197" title="Get the current logical position in millimeters." alt="" coords="468,155,665,180"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="79,278,120,233,150,209,183,190,251,169,322,157,391,153,454,153,454,159,391,158,322,162,252,174,185,195,153,213,124,237,83,282"/>
+<area shape="rect" id="Node000007" href="$classLcd1602.html#a2922193bbb32f7cad2c48c5ad0f21f0c" title="Print a RAM&#45;resident C&#45;string." alt="" coords="245,205,359,231"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="95,278,135,258,183,239,230,227,231,232,185,245,138,263,97,282"/>
+<area shape="rect" id="Node000008" href="$classMovingAverage.html#a84bdaf0937897d8baacad7cd1a927eac" title="Reset the filter contents and accumulator." alt="" coords="220,255,384,280"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="136,283,206,275,206,280,137,288"/>
+<area shape="rect" id="Node000009" href="$classLcd1602.html#a0516b78aa7f4531924a132d2b256f534" title="Position the cursor." alt="" coords="229,304,375,329"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="137,297,215,305,215,310,136,302"/>
+<area shape="rect" id="Node000010" href="$classCurrentSensor.html#a908e354d16c44c67d2be1b501e18bfc7" title="Enable or disable measurement updates." alt="" coords="205,353,399,379"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="99,303,185,338,219,348,218,353,183,343,97,308"/>
+<area shape="rect" id="Node000011" href="$classStepperDriver.html#a8fa4f67459e8366e83a2827fc4e8cf3a" title="Set continuous motion speed in mm/s." alt="" coords="199,403,405,443"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="85,304,127,345,155,368,185,388,203,396,200,401,183,392,152,372,123,349,81,307"/>
+<area shape="rect" id="Node000012" href="$classLcd1602.html#a7004efb68a9891924331923c69706d52" title="Display two lines of flash&#45;resident text as a title." alt="" coords="243,468,361,493"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="79,305,93,336,116,376,147,418,186,453,207,464,230,471,228,476,205,469,182,458,143,422,111,379,89,338,75,307"/>
+<area shape="rect" id="Node000013" href="$classStepperDriver.html#ac202361e6f613a083200d36f664d64e7" title="Non&#45;blocking step scheduling; call frequently from loop()." alt="" coords="219,517,385,543"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="77,305,88,345,109,399,141,456,161,482,186,504,207,516,205,521,182,508,158,486,136,459,104,401,83,346,72,306"/>
+<area shape="rect" id="Node000015" href="$classMovingAverage.html#ab66a3b068e54504c4cd58da6378b29d4" title="Insert a new floating&#45;point sample and compute the updated average." alt="" coords="214,567,390,592"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="76,305,84,353,102,420,117,457,135,493,158,525,186,553,202,564,199,568,182,557,154,529,130,495,112,459,97,422,79,354,71,306"/>
+<area shape="rect" id="Node000005" href="$classStepperDriver.html#a3a28a7c422746be35ae93f227169972b" title="Start a non&#45;blocking move to an absolute position (mm)." alt="" coords="469,104,665,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="420,114,455,114,455,119,420,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="370,127,487,149,486,155,369,132"/>
+<area shape="rect" id="Node000014" href="$classStepperDriver.html#acb72803a8fdbf2bd2e645b36a3d0306c" title="Emit a single step pulse and update the internal position counter." alt="" coords="473,517,661,543"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="385,527,459,527,459,533,385,533"/>
+</map>

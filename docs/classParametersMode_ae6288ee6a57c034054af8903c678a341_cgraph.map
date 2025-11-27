@@ -1,0 +1,50 @@
+<map id="ParametersMode::step" name="ParametersMode::step">
+<area shape="rect" id="Node000001" title="Execute one non&#45;blocking step of the parameter editing logic." alt="" coords="5,374,173,399"/>
+<area shape="rect" id="Node000002" href="$classParametersMode.html#a9939a7ffe1fb5b6a6aaa7db89fd0392c" title="Detect a long SELECT press based on current key and timestamp." alt="" coords="241,5,450,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,374,97,316,118,230,135,183,157,136,185,93,220,55,227,49,230,54,223,59,189,96,161,139,140,185,123,232,102,317,94,374"/>
+<area shape="rect" id="Node000003" href="$classKeypadShield.html#a56c3d96e5cb551c05d612f1ca18af3f1" title="Clear all stored key state and reset debouncing." alt="" coords="270,70,421,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,373,100,322,123,249,140,209,161,171,188,135,220,104,255,87,258,92,223,109,192,139,166,174,145,212,128,251,105,323,95,374"/>
+<area shape="rect" id="Node000004" href="$classParametersMode.html#a489515dfc1baf1550029f7913928d514" title="Draw the MODE selection screen (MOD1 vs MOD2) on the LCD." alt="" coords="221,119,469,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,373,106,332,132,275,169,214,193,186,220,162,244,148,247,152,223,166,197,190,173,217,136,277,111,334,97,375"/>
+<area shape="rect" id="Node000007" href="$classLcd1602.html#a0516b78aa7f4531924a132d2b256f534" title="Position the cursor." alt="" coords="517,253,664,278"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="93,373,108,337,134,290,171,243,194,222,220,206,255,190,286,180,315,175,343,175,401,185,470,205,485,212,496,220,519,238,536,245,533,250,516,242,492,225,483,217,468,211,399,190,342,180,315,180,287,185,257,195,223,210,198,226,175,246,139,293,113,340,98,375"/>
+<area shape="rect" id="Node000008" href="$classParametersMode.html#a84448eb83dd982e9e68d3d3dff92c626" title="Draw the currently selected parameter and its value." alt="" coords="239,220,451,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="100,372,148,322,182,294,220,270,235,263,237,268,223,274,186,298,152,326,103,376"/>
+<area shape="rect" id="Node000010" href="$classParametersMode.html#ae99399a789008d6ec1e372a9ed9f37d2" title="Convert the current float editor digits into a floating&#45;point value." alt="" coords="244,284,447,324"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="120,371,220,333,248,325,249,330,222,339,122,376"/>
+<area shape="rect" id="Node000011" href="$classParametersMode.html#abca58efc7e6c52ab8946daafca436e0d" title="Convert the current integer editor digits into an integer value." alt="" coords="231,349,459,374"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="173,376,217,371,218,377,174,381"/>
+<area shape="rect" id="Node000012" href="$ParametersMode_8cpp.html#a781da19ef746f0ff7b16933ebc0782a8" title="Return the number of editable parameters for a given mode." alt="" coords="266,398,425,423"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="174,392,252,399,252,405,173,397"/>
+<area shape="rect" id="Node000013" href="$classKeypadShield.html#a88107445356e42dd346231d899802d4b" title="Get the current stable key state." alt="" coords="266,447,425,473"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="122,397,222,432,261,442,260,447,221,437,121,402"/>
+<area shape="rect" id="Node000014" href="$classParametersMode.html#a0de1aae0141eff31a48928f604a6a277" title="Initialize the float editor with an initial value." alt="" coords="248,497,443,537"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="106,397,155,439,188,462,223,482,243,490,240,495,220,486,185,466,152,443,102,401"/>
+<area shape="rect" id="Node000015" href="$classParametersMode.html#ae3da3164e60e63641a05bca32bb05cbb" title="Initialize the integer editor with an initial value." alt="" coords="239,562,451,587"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="99,398,117,430,144,470,180,512,223,547,237,554,234,559,220,552,176,516,140,474,112,432,95,401"/>
+<area shape="rect" id="Node000016" href="$classParametersMode.html#a23c95dd83af94cbd2008c6dbfb15f5d9" title="Update the float editor based on the given key and redraw." alt="" coords="236,676,455,716"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="95,399,106,448,129,520,146,558,167,596,193,632,223,662,229,666,225,671,220,666,189,635,163,599,141,561,124,522,101,450,90,400"/>
+<area shape="rect" id="Node000017" href="$classLcd1602.html#ad02fcbfc41579fd1b5eeb0e4f2e80ed1" title="Write a single raw character to the display." alt="" coords="532,683,649,709"/>
+<area shape="poly" id="edge30_Node000001_Node000017" title=" " alt="" coords="94,399,98,461,116,553,132,602,155,649,185,691,223,726,263,746,306,757,351,760,396,756,441,748,482,737,549,712,551,717,484,742,442,753,397,761,351,765,305,762,261,751,220,730,181,695,150,652,127,604,111,554,93,462,88,400"/>
+<area shape="rect" id="Node000018" href="$classParametersMode.html#ab9d4944f251f089124db86c06521e96a" title="Update the integer editor based on the given key and redraw." alt="" coords="244,612,447,652"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="97,399,112,438,138,491,175,548,197,574,223,597,233,603,230,608,220,601,194,578,171,551,133,494,107,440,92,400"/>
+<area shape="rect" id="Node000005" href="$classLcd1602.html#a3f963d042026926a4a7957d804fff527" title="Clear the LCD display." alt="" coords="533,203,649,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="404,142,470,161,552,195,550,200,468,167,402,147"/>
+<area shape="rect" id="Node000006" href="$classLcd1602.html#a2922193bbb32f7cad2c48c5ad0f21f0c" title="Print a RAM&#45;resident C&#45;string." alt="" coords="533,423,648,449"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="378,143,425,168,449,186,471,206,521,293,579,410,575,412,516,296,467,210,446,190,422,173,375,147"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="432,142,471,162,488,181,496,201,503,220,519,238,529,244,526,249,516,242,499,222,491,202,484,184,468,166,429,147"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="451,227,519,220,519,226,452,232"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="449,258,471,270,508,302,539,340,580,409,575,412,534,343,504,305,468,274,446,262"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="452,248,504,254,504,259,451,254"/>
+<area shape="rect" id="Node000009" href="$ParametersMode_8cpp.html#a71c5d847b276d8cbc8062aee4c36cffd" title="Return a human&#45;readable parameter label for a given mode and index." alt="" coords="539,619,642,645"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="453,256,471,270,490,293,501,315,507,336,509,358,509,405,513,430,520,459,551,540,580,606,575,608,546,542,515,461,507,431,504,405,503,358,501,337,496,317,486,296,467,274,450,261"/>
+<area shape="poly" id="edge21_Node000016_Node000006" title=" " alt="" coords="449,673,468,662,496,627,527,571,577,460,582,462,531,574,500,630,471,666,452,678"/>
+<area shape="poly" id="edge22_Node000016_Node000007" title=" " alt="" coords="453,674,467,662,490,632,502,604,507,575,506,547,503,484,505,449,515,410,543,343,572,289,577,291,548,345,520,412,511,450,508,484,512,547,512,576,507,605,495,635,471,666,456,678"/>
+<area shape="poly" id="edge20_Node000016_Node000009" title=" " alt="" coords="423,673,469,661,528,646,529,651,470,667,425,679"/>
+<area shape="poly" id="edge23_Node000016_Node000017" title=" " alt="" coords="455,693,518,693,518,699,455,699"/>
+<area shape="poly" id="edge25_Node000018_Node000005" title=" " alt="" coords="445,614,467,597,484,575,495,553,502,531,504,509,501,465,492,421,482,376,479,331,488,285,499,262,515,238,520,234,524,237,519,242,503,264,493,287,484,331,488,376,497,420,507,464,510,509,507,532,500,555,488,577,471,601,449,618"/>
+<area shape="poly" id="edge27_Node000018_Node000006" title=" " alt="" coords="444,609,468,596,504,565,534,528,575,460,580,462,538,532,508,569,471,601,446,614"/>
+<area shape="poly" id="edge28_Node000018_Node000007" title=" " alt="" coords="445,613,468,597,485,575,496,554,501,533,502,512,503,465,507,439,515,410,544,343,573,289,577,291,549,346,520,412,512,440,508,466,507,512,506,534,501,556,490,578,471,601,448,617"/>
+<area shape="poly" id="edge26_Node000018_Node000009" title=" " alt="" coords="447,629,526,629,526,635,447,635"/>
+<area shape="poly" id="edge29_Node000018_Node000017" title=" " alt="" coords="425,649,470,661,529,677,528,682,469,667,423,655"/>
+</map>

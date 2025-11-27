@@ -1,0 +1,9 @@
+<map id="ModeController" name="ModeController">
+<area shape="rect" id="Node000001" title="State machine for menu navigation and mode execution." alt="" coords="99,93,222,119"/>
+<area shape="rect" id="Node000002" href="$classLcd1602.html" title="Wrapper class for a 16x2 HD44780&#45;compatible LCD with PWM backlight control." alt="" coords="5,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,37,146,91,143,95,69,41"/>
+<area shape="rect" id="Node000003" href="$classKeypadShield.html" title="Non&#45;blocking keypad handler for analog&#45;resistor ladder shields." alt="" coords="105,5,216,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,45,163,93,158,93,158,45"/>
+<area shape="rect" id="Node000004" href="$structIMode.html" title="Interface for non&#45;blocking machine modes." alt="" coords="240,5,303,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,41,209,71,177,95,174,91,206,67,244,37"/>
+</map>

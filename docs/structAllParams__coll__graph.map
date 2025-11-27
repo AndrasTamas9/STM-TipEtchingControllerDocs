@@ -1,0 +1,7 @@
+<map id="AllParams" name="AllParams">
+<area shape="rect" id="Node000001" title="Combined parameter structure containing all mode&#45;specific settings." alt="" coords="81,93,167,119"/>
+<area shape="rect" id="Node000002" href="$structMod1Params.html" title="Parameter set for MOD1 (surface detection + 30 V etching)." alt="" coords="5,5,112,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,40,117,91,113,94,74,43"/>
+<area shape="rect" id="Node000003" href="$structMod2Params.html" title="Parameter set for MOD2 (surface detection + validation + 9 V pulses)." alt="" coords="136,5,243,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,43,135,94,131,91,170,40"/>
+</map>
