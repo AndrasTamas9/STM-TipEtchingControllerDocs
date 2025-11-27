@@ -26,7 +26,17 @@ The system provides:
 - Precision z-axis motion controlled by a TMC2209 driver  
 - On-device parameter editor via LCD keypad  
 - Manual jogging mode  
-- Full non-blocking firmware architecture  
+- Full non-blocking firmware architecture
+
+<p align="center">
+  <img src="docs/pic1.jpeg"
+       alt="STM Tip Etching Controller – front view"
+       width="320" />
+  <img src="docs/pic2.jpeg"
+       alt="STM Tip Etching Controller – perspective view"
+       width="320"
+       style="margin-left: 10px;" />
+</p>
 
 ---
 
