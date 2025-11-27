@@ -1,25 +1,5 @@
 var searchData=
 [
-  ['paramcountformode_0',['paramCountForMode',['../ParametersMode_8cpp.html#a781da19ef746f0ff7b16933ebc0782a8',1,'ParametersMode.cpp']]],
-  ['parameters_2ecpp_1',['Parameters.cpp',['../Parameters_8cpp.html',1,'']]],
-  ['parameters_2eh_2',['Parameters.h',['../Parameters_8h.html',1,'']]],
-  ['parametersmode_3',['parametersmode',['../classParametersMode.html#a0ca5c921cf11c24cd8084ba9ee34b098',1,'ParametersMode::ParametersMode()'],['../classParametersMode.html',1,'ParametersMode']]],
-  ['parametersmode_2ecpp_4',['ParametersMode.cpp',['../ParametersMode_8cpp.html',1,'']]],
-  ['parametersmode_2eh_5',['ParametersMode.h',['../ParametersMode_8h.html',1,'']]],
-  ['paramname_6',['paramName',['../ParametersMode_8cpp.html#a71c5d847b276d8cbc8062aee4c36cffd',1,'ParametersMode.cpp']]],
-  ['pdir_5f_7',['pDIR_',['../classStepperDriver.html#a2e918f1caba8a113e5eea5408f6eefd1',1,'StepperDriver']]],
-  ['pen_5f_8',['pEN_',['../classStepperDriver.html#ac446b04b084fa02e6e3acb72c9bb3e87',1,'StepperDriver']]],
-  ['pin_5f_9',['pin_',['../classCurrentSensor.html#a956b2d1ebc6c7199f13e94aeea0e13f0',1,'CurrentSensor']]],
-  ['plungeafteretch_5fmm_10',['plungeAfterEtch_mm',['../structMod2Params.html#a7a3f3ba7245daa5fdc573e7ce1e30ce0',1,'Mod2Params']]],
-  ['plungeaftersurface_5fmm_11',['plungeaftersurface_mm',['../structMod1Params.html#a32cfb74ced873dcceddb7a82b49bf622',1,'Mod1Params::plungeAfterSurface_mm'],['../structMod2Params.html#a8c659b95d3f6f1dab5c798b69df844f9',1,'Mod2Params::plungeAfterSurface_mm']]],
-  ['poll_12',['poll',['../classKeypadShield.html#a35b5757cf10ad1d38bbf9061c2d2b11b',1,'KeypadShield']]],
-  ['pos_5fsteps_5f_13',['pos_steps_',['../classStepperDriver.html#ab056dc3943b19eb5786b265899519d75',1,'StepperDriver']]],
-  ['positionmm_14',['positionMm',['../classStepperDriver.html#a4d1715971817716be1a64e8b5c6c2197',1,'StepperDriver']]],
-  ['print_15',['print',['../classLcd1602.html#abaaa12503c9202f280ddf350bd397cf0',1,'Lcd1602::print(const __FlashStringHelper *s)'],['../classLcd1602.html#adcb7186c25b9e029e879242a77984d6e',1,'Lcd1602::print(int v)'],['../classLcd1602.html#a8ed03c2c285b3ae7ae4cfa3fac27fc03',1,'Lcd1602::print(uint8_t v)'],['../classLcd1602.html#a218b11a33291bcd754fc07ca30f83987',1,'Lcd1602::print(long v)'],['../classLcd1602.html#adfc9c9ad155e7de5b1ea820b6c5f80cc',1,'Lcd1602::print(unsigned long v)'],['../classLcd1602.html#a9f8219f0f876189a1a5cbf01e2ae05a5',1,'Lcd1602::print(float v, uint8_t prec)'],['../classLcd1602.html#a2922193bbb32f7cad2c48c5ad0f21f0c',1,'Lcd1602::print(const char *s)']]],
-  ['pstep_5f_16',['pSTEP_',['../classStepperDriver.html#aaae4b3e978400dc77b6055403e54f0e4',1,'StepperDriver']]],
-  ['pulsecount_17',['pulseCount',['../structMod2Params.html#af4a2d8c8d8fccb0d274a5a686ebb7f91',1,'Mod2Params']]],
-  ['pulsecount_5f_18',['pulsecount_',['../classMod1Mode.html#afa25559d8259a3e4dfd9bf13a9cbc76e',1,'Mod1Mode::pulseCount_'],['../classMod2Mode.html#a1f5a4f421c8a4dc8a2ace8744d1aed20',1,'Mod2Mode::pulseCount_']]],
-  ['pulseoff_5fs_19',['pulseOff_s',['../structMod2Params.html#a534f3c40fc7333bcbe598fb156ab3478',1,'Mod2Params']]],
-  ['pulseon_5fs_20',['pulseOn_s',['../structMod2Params.html#afd87d58c8b81481fc3c37547192b01a3',1,'Mod2Params']]],
-  ['pulsestart_5f_21',['pulsestart_',['../classMod1Mode.html#ae95d497781fa1671867103238c908294',1,'Mod1Mode::pulseStart_'],['../classMod2Mode.html#a699e628dfc0d4bc44e1c75526b47c77d',1,'Mod2Mode::pulseStart_']]]
+  ['of_20the_20device_0',['Purpose of the Device',['../index.html#autotoc_md2',1,'']]],
+  ['overview_1',['Overview',['../index.html#autotoc_md0',1,'']]]
 ];

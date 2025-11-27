@@ -11,9 +11,10 @@ var searchData=
   ['ignoreselectrelease_5f_8',['ignoreSelectRelease_',['../classParametersMode.html#a91cd6784386d77e4c54048b0367043d1',1,'ParametersMode']]],
   ['imode_9',['IMode',['../structIMode.html',1,'']]],
   ['imode_2eh_10',['IMode.h',['../IMode_8h.html',1,'']]],
-  ['intfromdigits_11',['intFromDigits',['../classParametersMode.html#abca58efc7e6c52ab8946daafca436e0d',1,'ParametersMode']]],
-  ['inv_5f_12',['inv_',['../classLcd1602.html#aaafda4aab45ad84f93c72ed4d8f63fb5',1,'Lcd1602']]],
-  ['irms_5f_13',['Irms_',['../classCurrentSensor.html#aeb090717df3662b092fe39d969e597c5',1,'CurrentSensor']]],
-  ['isbusy_14',['isBusy',['../classStepperDriver.html#a4a66821f431c4db6d4f030c6b7003bd8',1,'StepperDriver']]],
-  ['isenabled_15',['isEnabled',['../classCurrentSensor.html#acfd4c88af45aa6f944e8f7d49b2ab04c',1,'CurrentSensor']]]
+  ['intellectual_20property_11',['Intellectual Property',['../index.html#autotoc_md1',1,'']]],
+  ['intfromdigits_12',['intFromDigits',['../classParametersMode.html#abca58efc7e6c52ab8946daafca436e0d',1,'ParametersMode']]],
+  ['inv_5f_13',['inv_',['../classLcd1602.html#aaafda4aab45ad84f93c72ed4d8f63fb5',1,'Lcd1602']]],
+  ['irms_5f_14',['Irms_',['../classCurrentSensor.html#aeb090717df3662b092fe39d969e597c5',1,'CurrentSensor']]],
+  ['isbusy_15',['isBusy',['../classStepperDriver.html#a4a66821f431c4db6d4f030c6b7003bd8',1,'StepperDriver']]],
+  ['isenabled_16',['isEnabled',['../classCurrentSensor.html#acfd4c88af45aa6f944e8f7d49b2ab04c',1,'CurrentSensor']]]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>STM Tip Etching Controller: Main Page</title>
+<title>STM Tip Etching Controller: STM Tip Etching Controller – Technical Documentation  &lt;br&gt;</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -68,10 +68,137 @@ $(function() {
 </div>
 </div>
 
-<div class="header">
-  <div class="headertitle"><div class="title">STM Tip Etching Controller Documentation</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">STM Tip Etching Controller – Technical Documentation <br  />
+ </div></div>
 </div><!--header-->
 <div class="contents">
+<div class="textblock"><p><img src="hun-ren-ek-logo.png" alt="HUN-REN EK logo" width="300" class="inline"/></p>
+<h1><a class="anchor" id="autotoc_md0"></a>
+Overview</h1>
+<p>The <b>STM Tip Etching Controller</b> is a fully custom-designed and semi-automated <br  />
+ electrochemical system for producing <b>high-quality platinum–iridium STM tips</b>, <br  />
+ using a <b>1 molar CaCl₂ aqueous electrolyte</b>.</p>
+<p>The device was conceived, designed, and built at the <br  />
+ <b>Nanostructures Department</b>, <br  />
+ <b>HUN-REN Centre for Energy Research (EK)</b>, <br  />
+ <b>Institute of Technical Physics and Materials Science (MFA)</b> <br  />
+ by:</p>
+<ul>
+<li><b>Tamás András</b> <br  />
+ MSc Physics student, Babeș–Bolyai University</li>
+<li><b>Dr. Gergely Dobrik</b> <br  />
+ PhD, Senior Research Fellow <br  />
+ Nanostructures Department <br  />
+ HUN-REN Centre for Energy Research (EK) <br  />
+ Institute of Technical Physics and Materials Science (MFA) <br  />
+ Phone: +36-1-392-2222 ext. 1378 <br  />
+ Fax: +36-1-392-2226 <br  />
+ Mailing address: H-1525 Budapest, P.O. Box 49, Hungary <br  />
+ Street address: H-1121 Budapest, Konkoly-Thege út 29–33 <br  />
+</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md1"></a>
+Intellectual Property</h1>
+<p><b>© HUN-REN Centre for Energy Research (EK) – Nanostructures Department</b> <br  />
+ <em>All rights reserved.</em></p>
+<p>This hardware and software package—including all design files, firmware, <br  />
+ and documentation—is the intellectual property of the <br  />
+ <b>Nanostructures Department</b>, <br  />
+ <b>HUN-REN Centre for Energy Research (EK)</b>, <br  />
+ <b>Institute of Technical Physics and Materials Science (MFA)</b>. <br  />
+</p>
+<p>Any publication, redistribution, or commercial use requires <br  />
+ <b>explicit written permission</b> from the department.</p>
+<h1><a class="anchor" id="autotoc_md2"></a>
+Purpose of the Device</h1>
+<p>This system automates the electrochemical etching of <b>Pt/Ir STM tips</b>, providing:</p>
+<ul>
+<li>Highly reproducible apex geometry <br  />
+</li>
+<li>Real-time RMS current measurement with filtering <br  />
+</li>
+<li>Automatic detection of meniscus contact using current thresholds <br  />
+</li>
+<li>Multi-stage etching logic (contact → validation → etching → retract) <br  />
+</li>
+<li>Dual-relay controlled voltage switching (9 V and 30 V stages) <br  />
+</li>
+<li>Precision microstepping motion using a TMC2209 driver <br  />
+</li>
+<li>Manual jogging mode for fine z-axis control <br  />
+</li>
+<li>On-device parameter editor via LCD keypad <br  />
+</li>
+<li>Automatic baseline current calibration at Z = 30 mm <br  />
+</li>
+</ul>
+<p>The device increases reproducibility, reduces operator intervention, <br  />
+ and provides reliable tip quality for STM experiments.</p>
+<h1><a class="anchor" id="autotoc_md3"></a>
+Software Architecture</h1>
+<p>Firmware components:</p>
+<ul>
+<li><b><a class="el" href="classCurrentSensor.html" title="Non-blocking RMS current measurement helper class.">CurrentSensor</a></b> – ADC acquisition, RMS and peak processing <br  />
+</li>
+<li><b><a class="el" href="classStepperDriver.html" title="Non-blocking stepper motor driver with position and velocity control.">StepperDriver</a></b> – non-blocking motion controller <br  />
+</li>
+<li><b><a class="el" href="classModeController.html" title="State machine for menu navigation and mode execution.">ModeController</a></b> – main UI state machine <br  />
+</li>
+<li><b>Modes</b> <br  />
+<ul>
+<li>HOME – homing &amp; baseline calibration <br  />
+</li>
+<li>MOD1 – standard etching <br  />
+</li>
+<li>MOD2 – pulsed etching <br  />
+</li>
+<li>JOG – manual stepping <br  />
+</li>
+<li>PARAM – configuration editor <br  />
+</li>
+</ul>
+</li>
+<li><b><a class="el" href="classKeypadShield.html" title="Non-blocking keypad handler for analog-resistor ladder shields.">KeypadShield</a></b> – analog button interface <br  />
+</li>
+<li><b><a class="el" href="classLcd1602.html" title="Wrapper class for a 16x2 HD44780-compatible LCD with PWM backlight control.">Lcd1602</a></b> – display &amp; backlight control <br  />
+</li>
+<li><b><a class="el" href="classMovingAverage.html" title="Fixed-point, static moving average filter.">MovingAverage</a></b> – optimized fixed-point filter <br  />
+</li>
+<li><b>Parameters</b> – persistent runtime configuration <br  />
+</li>
+</ul>
+<p>All modules run non-blocking, ensuring real-time acquisition and stable motor control.</p>
+<h1><a class="anchor" id="autotoc_md4"></a>
+Using This Documentation</h1>
+<p>Navigate through:</p>
+<ul>
+<li><b>Classes</b> – API reference for all modules <br  />
+</li>
+<li><b>Files</b> – complete source listings <br  />
+</li>
+<li>Call/collaboration graphs (if enabled) <br  />
+</li>
+<li>Parameter descriptions <br  />
+</li>
+<li>Mode-flow diagrams <br  />
+</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md5"></a>
+Project GitHub Page</h1>
+<p>Documentation and firmware source code are available at: <br  />
+ <b><a href="https://github.com/AndrasTamas9/STM-TipEtchingControllerDocs">https://github.com/AndrasTamas9/STM-TipEtchingControllerDocs</a></b></p>
+<h1><a class="anchor" id="autotoc_md6"></a>
+Contact</h1>
+<p><b>Dr. Gergely Dobrik</b> <br  />
+ Email: <a href="#" onclick="location.href='mai'+'lto:'+'dob'+'ri'+'k@e'+'ne'+'rgi'+'a.'+'mta'+'.h'+'u'; return false;">dobri<span class="obfuscator">.nosp@m.</span>k@en<span class="obfuscator">.nosp@m.</span>ergia<span class="obfuscator">.nosp@m.</span>.mta<span class="obfuscator">.nosp@m.</span>.hu</a> <br  />
+ Nanostructures Department <br  />
+ HUN-REN Centre for Energy Research (EK) <br  />
+ Institute of Technical Physics and Materials Science (MFA)</p>
+<p><b>Tamás András</b> <br  />
+ Email: <a href="#" onclick="location.href='mai'+'lto:'+'and'+'ra'+'sta'+'ma'+'s44'+'@g'+'mai'+'l.'+'com'; return false;">andra<span class="obfuscator">.nosp@m.</span>stam<span class="obfuscator">.nosp@m.</span>as44@<span class="obfuscator">.nosp@m.</span>gmai<span class="obfuscator">.nosp@m.</span>l.com</a> <br  />
+ GitHub: <a href="https://github.com/AndrasTamas9">https://github.com/AndrasTamas9</a> </p>
+</div></div><!-- PageDoc -->
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
