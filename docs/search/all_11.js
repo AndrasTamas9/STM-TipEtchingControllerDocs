@@ -17,7 +17,7 @@ var searchData=
   ['setspeedmmpersec_14',['setSpeedMmPerSec',['../classStepperDriver.html#a8fa4f67459e8366e83a2827fc4e8cf3a',1,'StepperDriver']]],
   ['setthresholds_15',['setThresholds',['../classKeypadShield.html#a3ec185ab1bf87e202b6e8f06780afbed',1,'KeypadShield']]],
   ['simulate_5fkeys_16',['SIMULATE_KEYS',['../KeypadShield_8h.html#a265e8c523adb7568c413ac7c12994b4a',1,'KeypadShield.h']]],
-  ['software_20architecture_17',['Software Architecture',['../index.html#autotoc_md3',1,'']]],
+  ['software_20architecture_17',['Software Architecture',['../index.html#autotoc_md4',1,'']]],
   ['speed_5fmm_5fs_5f_18',['speed_mm_s_',['../classStepperDriver.html#a8235855882fd0d2da39dc560d19dcd89',1,'StepperDriver']]],
   ['st_5f_19',['st_',['../classMod1Mode.html#a230117739fe117efd3e5c41ec4594c67',1,'Mod1Mode::st_'],['../classMod2Mode.html#ad948f1dc269eccd1020ff5653dc14a47',1,'Mod2Mode::st_']]],
   ['stable_20',['stable',['../classKeypadShield.html#a88107445356e42dd346231d899802d4b',1,'KeypadShield']]],

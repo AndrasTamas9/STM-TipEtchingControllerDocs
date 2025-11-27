@@ -5,5 +5,5 @@ var searchData=
   ['adcmin_5f_2',['adcMin_',['../classCurrentSensor.html#a63b07957a617d40cc299d8bef3149fd4',1,'CurrentSensor']]],
   ['allparams_3',['AllParams',['../structAllParams.html',1,'']]],
   ['apin_5f_4',['aPin_',['../classKeypadShield.html#a2001b05a3efd76eba4d910a08050acfe',1,'KeypadShield']]],
-  ['architecture_5',['Software Architecture',['../index.html#autotoc_md3',1,'']]]
+  ['architecture_5',['Software Architecture',['../index.html#autotoc_md4',1,'']]]
 ];
